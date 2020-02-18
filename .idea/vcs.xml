@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dagger2-Sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DemoERP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExamAppDesign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Feedly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Local-db-Cache-Retrofit-REST-API-MVVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MagicPrint-ECommerce-App-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/News" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OsmosysTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pro_01_GoChenetha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/expandable-navigation-drawer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter/flutter_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlinTutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/materialcolor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mvvm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smart-sms-Ah-new" vcs="Git" />
+  </component>
+</project>

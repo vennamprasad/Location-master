@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5A7AF3</color>
+    <color name="colorPrimaryDark">#6A86F4</color>
+    <color name="colorAccent">#5A7AF3</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#636363</color>
+    <color name="light_blue">#F2F5FF</color>
+    <color name="text">#636979</color>
+    <color name="colorPrimaryThird">#757575</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="strip_color">#dddddd</color>
+    <color name="message_list_background">#F7F6F9</color>
+    <color name="message_title">#808AAD</color>
+    <color name="permission_title">#505C83</color>
+    <color name="permission_active">#567AF3</color>
+    <color name="permission_inactive_background">#F7F8FA</color>
+    <color name="permission_inactive_border">#E8EDF4</color>
+    <color name="ic_launcher_background">#5A7AF3</color>
+</resources>
